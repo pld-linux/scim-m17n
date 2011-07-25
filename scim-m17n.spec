@@ -1,7 +1,7 @@
 Summary:	SCIM IMEngine for m17n-lib
 Name:		scim-m17n
 Version:	0.2.3
-Release:	0.1
+Release:	1
 License:	GPL v2+
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/scim/%{name}-%{version}.tar.gz
