@@ -26,7 +26,7 @@ tablic wejściowych z bazy m17n-db.
 
 %prep
 %setup -q
-%patch1 -p1
+%patch -P1 -p1
 
 %build
 %configure \
